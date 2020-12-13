@@ -1,5 +1,7 @@
 # DeepONet: Learning nonlinear operators
 
+[![DOI](https://zenodo.org/badge/260069304.svg)](https://zenodo.org/badge/latestdoi/260069304)
+
 The source code for the paper [Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators](https://arxiv.org/abs/1910.03193).
 
 ## System requirements
