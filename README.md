@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/260069304.svg)](https://zenodo.org/badge/latestdoi/260069304)
 
-The source code for the paper [Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators](https://arxiv.org/abs/1910.03193).
+The source code for the paper [Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators, Nature Machine Intelligence, 2021](https://doi.org/10.1038/s42256-021-00302-5).
 
 ## System requirements
 
-Most code is written in Python 3, and depends on the deep learning package [DeepXDE](https://github.com/lululxvi/deepxde) v0.9.0. Some code is written in Matlab (version R2019a).
+Most code is written in Python 3, and depends on the deep learning package [DeepXDE](https://github.com/lululxvi/deepxde). Some code is written in Matlab (version R2019a).
 
 ## Installation guide
 
