@@ -1,0 +1,8 @@
+deepxde
+matplotlib
+numpy
+pathos
+scipy
+seaborn
+sklearn
+tensorflow
