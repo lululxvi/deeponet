@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/260069304.svg)](https://zenodo.org/badge/latestdoi/260069304)
 
-The source code for the paper [Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators, Nature Machine Intelligence, 2021](https://doi.org/10.1038/s42256-021-00302-5).
+The source code for the paper [L. Lu, P. Jin, G. Pang, Z. Zhang, & G. E. Karniadakis. Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators. *Nature Machine Intelligence*, 3, 218-229, 2021](https://doi.org/10.1038/s42256-021-00302-5).
 
 ## System requirements
 
@@ -140,6 +140,22 @@ The instructions for running each case are as follows.
 - Advection: The same as `Antiderivative` in Demo. You need to modify the functions `main()` in deeponet_pde.py, `run()` in deeponet_pde.py, `CVCSystem()` in system.py, and `solve_CVC()` in CVC_solver.py to run each case.
 - Advection-diffusion: The same as `Antiderivative` in Demo. You need to modify the function `main()` in deeponet_pde.py.
 - Stochastic ODE/PDE: In Demo.
+
+## Cite this work
+
+If you use this code for academic research, you are encouraged to cite the following paper:
+
+```
+@article{lu2021learning,
+  title   = {Learning nonlinear operators via {DeepONet} based on the universal approximation theorem of operators},
+  author  = {Lu, Lu and Jin, Pengzhan and Pang, Guofei and Zhang, Zhongqiang and Karniadakis, George Em},
+  journal = {Nature Machine Intelligence},
+  volume  = {3},
+  number  = {3},
+  pages   = {218--229},
+  year    = {2021}
+}
+```
 
 ## Questions
 
