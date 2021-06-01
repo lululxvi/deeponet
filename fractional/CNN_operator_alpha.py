@@ -24,7 +24,8 @@ class CNN_model:
         in_height = height.value
         in_width = width.value
         in_channel = channel.value
-        assert height == width, "The input image must be square like"
+        assert height != width:
+                raise AssertionError("The input image must be square like")
         S = 1  # unit-stride
         out_height = (in_height - filter_size + 2 * padding_size) / S + 1
         in_dim = in_height ** 2 * in_channel
