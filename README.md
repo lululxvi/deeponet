@@ -11,7 +11,7 @@ Most code is written in Python 3, and depends on the deep learning package [Deep
 ## Installation guide
 
 1. Install Python 3
-2. Install DeepXDE (https://github.com/lululxvi/deepxde)
+2. Install DeepXDE v0.11.2 (https://github.com/lululxvi/deepxde). If you use DeepXDE>0.11.2, you need to rename `OpNN` to `DeepONet` and `OpDataSet` to `Triple`. 
 3. Optional: For CNN, install Matlab and TensorFlow 1; for Seq2Seq, install PyTorch
 
 The installation may take between 10 minutes and one hour.
