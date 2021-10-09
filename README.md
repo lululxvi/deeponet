@@ -160,3 +160,7 @@ If you use this code for academic research, you are encouraged to cite the follo
 ## Questions
 
 To get help on how to use the data or code, simply open an issue in the GitHub "Issues" section.
+
+## License
+
+DeepONet cannot be used for commercial purposes because it is protected by a patent by Brown University.
