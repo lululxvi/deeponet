@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/260069304.svg)](https://zenodo.org/badge/latestdoi/260069304)
 
+## ⚠️DeepONet cannot be used for commercial purposes because it is protected by a patent by Brown University.⚠️
+
 The source code for the paper [L. Lu, P. Jin, G. Pang, Z. Zhang, & G. E. Karniadakis. Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators. *Nature Machine Intelligence*, 3, 218-229, 2021](https://doi.org/10.1038/s42256-021-00302-5).
 
 ## System requirements
@@ -160,7 +162,3 @@ If you use this code for academic research, you are encouraged to cite the follo
 ## Questions
 
 To get help on how to use the data or code, simply open an issue in the GitHub "Issues" section.
-
-## License
-
-DeepONet cannot be used for commercial purposes because it is protected by a patent by Brown University.
